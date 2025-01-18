@@ -10,7 +10,7 @@ require (
 	github.com/TicketsBot/common v0.0.0-20241117150316-ff54c97b45c1
 	github.com/TicketsBot/database v0.0.0-20241116234225-cdf216a9ffca
 	github.com/TicketsBot/logarchiver v0.0.0-20241012220745-5f3ba17a5138
-	github.com/TicketsBot/worker v0.0.0-20241117155137-89dec1fd9a11
+	github.com/Dev-Miniplays/Tickets-Worker v0.0.0-20241117155137-89dec1fd9a11
 	github.com/apex/log v1.1.2
 	github.com/caarlos0/env/v11 v11.2.2
 	github.com/getsentry/sentry-go v0.24.0

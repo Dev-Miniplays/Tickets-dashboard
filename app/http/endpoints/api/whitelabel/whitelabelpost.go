@@ -12,7 +12,7 @@ import (
 	"github.com/TicketsBot/common/tokenchange"
 	"github.com/TicketsBot/common/whitelabeldelete"
 	"github.com/TicketsBot/database"
-	"github.com/TicketsBot/worker/bot/command/manager"
+	"github.com/Dev-Miniplays/Tickets-Worker/bot/command/manager"
 	"github.com/gin-gonic/gin"
 	"github.com/rxdn/gdl/objects/application"
 	"github.com/rxdn/gdl/rest"
